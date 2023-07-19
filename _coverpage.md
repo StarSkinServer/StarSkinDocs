@@ -7,9 +7,9 @@
 
 [官网](https://star-skin.cn)
 [群聊](https://url.shanrenyi.top/starskin)
-[开始阅读](https://docs.starskin.eu.org/#/./docs/a-1)
+[开始阅读](https://docs.star-skin.cn/#/./docs/a-1)
 
-![](https://api-view.star-skin.cn/cute)
+![](https://api-view.star-skin.cn/img)
 
 
 
