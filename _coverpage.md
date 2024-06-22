@@ -9,7 +9,7 @@
 [群聊](https://url.shanrenyi.top/starskin)
 [开始阅读](https://docs.star-skin.cn/#/./docs/a-1)
 
-![](https://api-view.star-skin.cn/img)
+![](https://api.shanrenyi.top/img)
 
 
 
